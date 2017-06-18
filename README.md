@@ -5,7 +5,7 @@
 
 #### First Time Install:
 
-`cd ~/RetroPie/roms/ && git remote add origin https://github.com/Shugabuga/RomCollection.git && git pull origin master`
+`cd ~/RetroPie/roms/ && git init && git remote add origin https://github.com/Shugabuga/RomCollection.git && git pull origin master`
 
 #### Update After First Install:
 
