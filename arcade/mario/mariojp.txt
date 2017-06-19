@@ -1,0 +1,25 @@
+Mario Bros.(Japanese Version)
+1983 Nintendo
+
+CPU:Z80A
+SOUND:? (Mitsubishi M58715-051P???)
+OSC. 8.000/11.000/24.000MHz
+
+
+ Length  Method   Size  Ratio   Date    Time    CRC-32  Attr  Name
+ ------  ------   ----- -----   ----    ----   -------- ----  ----
+   4096  DeflatN   1575  62%  07-16-99  00:00  13afb9ed ---  TMA1V-A.7U
+   4096  DeflatN   1424  66%  07-16-99  00:00  5cbb92a5 ---  TMA1V-A.7T
+   4096  DeflatN   1755  58%  07-16-99  00:00  912ba80a ---  TMA1V-A.7S
+   4096  DeflatN   1672  60%  07-16-99  00:00  7b27c8c1 ---  TMA1V-A.7P
+   4096  DeflatN   1974  52%  07-16-99  00:00  e0e08bba ---  TMA1V-A.7N
+   4096  DeflatN   1807  56%  07-16-99  00:00  186762f8 ---  TMA1V-A.7M
+   8192  DeflatN   6162  25%  07-16-99  00:00  b64b6330 ---  TMA1C-A1.7F
+   8192  DeflatN   6256  24%  07-16-99  00:00  290c4977 ---  TMA1C-A2.7E
+   8192  DeflatN   6044  27%  07-16-99  00:00  f8575f31 ---  TMA1C-A1.7D
+   4096  DeflatN   2147  48%  07-16-99  00:00  a3c11e9e ---  TMA1C-A2.7C
+   4096  DeflatN   2093  49%  07-16-99  00:00  06b9ff85 ---  TMA1C-A.6K
+   4096  DeflatN    951  77%  07-16-99  00:00  a5318f2d ---  TMA1V-A.3J
+   4096  DeflatN    873  79%  07-16-99  00:00  adf49ee0 ---  TMA1V-A.3F
+ ------          ------  ---                                  -------
+  65536           34733  48%                                       13

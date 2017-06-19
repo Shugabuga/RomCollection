@@ -1,0 +1,20 @@
+Centuri Phoenix
+
+All parts are 2716 or 2516 (but NOT TMS2716)
+
+Note: it is not known whether these ROM images came from a working board
+
+loc   label  cksm
+----  -----  ----
+ic23  B3     3dda
+ic24  B4     bb03
+ic39  B1     1e7a
+ic40  B2     17ea
+ic45  H1     42f0
+ic46  H2     f6e0
+ic47  H3     0916
+ic48  H4     6348
+ic49  H5     b05e
+ic50  H6     1ec4
+ic51  H7     5873
+ic52  H8     2c7f

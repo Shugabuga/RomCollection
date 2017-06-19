@@ -1,0 +1,27 @@
+        FIGHTING GOLF CHIP PLACEMENT
+
+USES THREE Z80 CPU'S W/YM3812 SOUND
+
+
+CHIP #      POSITION
+------------------------
+ 1            4M  CONN BD
+ 2            4P    "
+ 3            6G    "
+ 4            6K    "
+ 5            8M    "
+ 6            8P    "
+ 7            2B  BOTTOM BD  
+ 8            2D    "
+ 9            2P    "  
+10            2RS   "
+11            2T    "
+PAL16R6A      6C    "      
+82S137        1B  CONN BD
+82S137        1C    "
+82S137        2C    "
+PAL16L8A      3F    "
+PAL20L8A      6R    "
+
+
+

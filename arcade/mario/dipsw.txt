@@ -1,0 +1,27 @@
+Mario Bros.(JP) DIPSW-settings
+Default: all OFF
+                 | A | B | C | D | E | F | G | H |
+--------------------------------------------------
+         |   3   |off|off|                       |
+Number of|   4   |on |off|                       |
+ players |   5   |off|on |                       |
+         |   6   |off|off|                       |
+--------------------------------------------------
+         | 3c/1c |       |off|on |off|           |
+         | 2c/1c |       |off|off|on |           |
+         | 1c/1c |       |off|off|off|           |
+ Coinage | 1c/2c |       |off|on |on |           |
+ (coins/ | 1c/3c |       |on |off|off|           |
+ credits)| 1c/4c |       |on |on |off|           |
+         | 1c/5c |       |on |off|on |           |
+         | 1c/6c |       |on |on |on |           |
+--------------------------------------------------
+1credit- |  Yes  |                   |off|       |
+2p sim(*)|  No   |                   |on |       |
+--------------------------------------------------
+         | 20,000|                       |off|off|
+  First  | 30,000|                       |on |off|
+  extra  | 40,000|                       |off|on |
+  score  | None  |                       |on |on |
+--------------------------------------------------
+(*)Allows 2-player simultaneous play by 1 credit

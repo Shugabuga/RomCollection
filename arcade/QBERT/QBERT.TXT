@@ -1,0 +1,12 @@
+Here is the ROM set for Q-BERT.
+
+NEVER include these, or ANY ROMs with the existing emulators. The emulator
+authors work extremly hard on their emulators, and don't need any
+problems, such as roms included with the emulators.
+
+You use these ROMs at your own risk. I assume NO liability for what they
+do to your system. Additionaly, you should ONLY use these roms if you are
+legally entitled to do so.
+_________________
+Dave W.
+hbbuse08@csun.edu

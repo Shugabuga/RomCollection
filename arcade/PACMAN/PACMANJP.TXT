@@ -1,0 +1,62 @@
+              PACMAN - NAMCO ORIGINAL ( ? )
+
+These roms are taken from what appears to be an original Namco PCB that I
+own. The PCB looks the same as that depicted in the scan contained in Namco
+classics volume 1 (JAP) for the playstation - apart from a small satelite board
+adjacent to the character roms. It isn't clear, but this board may have been
+removed for the photograph. There are no NAMCO markings on my board - but
+neither does there appear to be on the scan. The serial No. 22021017 is 
+etched on the PCB just behind the edge connector.  All roms are marked with
+a neat non-pirate looking label marked PM1 and then CHGx or PRGx for the
+appropriate roms. The only other interesting IC is an 'NVC285'.
+
+The rom layout is as follows:
+
+                          PRG
+               CHR         8
+                           6        E
+                4          4        D
+                2          2        G
+                3          7        E
+                1          5
+                           3
+                           1
+
+Okay, that's the boring bit over with. Now the interesting part.
+
+Looking at the Japanese version of Namco classics volume 1, the ghost names
+are as follows:
+
+ Character  / Nickname
+
+ OIKAKE       AKABEI
+ MACHIBUSE    PINKY
+ KIMAGURE     AOSUKE
+ OTOBOKE      GUZUTA
+
+These are the correct japanese names - changed for the Western market.
+
+Now, my PCB comes up with the following names:
+
+ URCHIN        MACKY
+ ROMP          MICKY
+ STYLIST       MUCKY
+ CRYBABY       MOCKY
+
+These do not look particularly original to me. However, the correct (JAP) names
+are actually contained within the ROMS. Also, when running a .rat file I made
+for sparcade, the correct JAPANESE names appear !  Yippee !!!
+( The dips do not change the names - but I understand that there was a 
+jumper on the board that set the different names ).
+
+Anyway, the PCB APPEARS to be original with just some doubt about the
+western names - but these may be correct. Anyone with any info, please let
+me know !!!!
+
+These roms are for use by those who own the original PCB.
+
+Cheers
+
+Gary  7th August 1997
+
+E-Mail garyw@excels-w.demon.co.uk

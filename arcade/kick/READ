@@ -1,0 +1,44 @@
+
+        KICKMAN    CHIP PLACEMENT
+
+THERE ARE AT LEAST TWO VERSIONS OF KICK
+I HAVE ARBITRARILY LABELED ONE " V2 "
+
+CHIP#   POSITION  TYPE
+--------------------------
+0513-00803-1000-G   G4       2732     CPU BOARD
+    "      1100-H   G5        "        "
+    "      1200-A   B3       2532      "
+    "      1300-B   B4        "        "
+    "      1400-C   B5        "        "
+    "      1500-D   D4        "        "
+    "      1600-E   D5        "        "
+    "      1700-F   D6        "        "
+    "      2600-A   1E       2764     VIDEO BOARD
+    "      2700-B   1D        "        "
+    "      2800-C   1B        "        "
+    "      2900-D   1A        "        "
+0968-00803-4200-A   A7       2532     SOUND BOARD
+    "      4300-B   A8        "        "
+    "      4400-C   A9        "        "
+    "      4500-D   A10       "        "
+
+     VERSION 2
+     -----------
+0968-00803-1800G-V2 G4       2732
+    "      1900H-V2 G5        "
+    "      1200A-V2 B3       2532
+    "      1300B-V2 B4        "
+    "      1400C-V2 B5        "
+    "      1500D-V2 D4        "
+    "      1600E-V2 D5        "
+    "      1700F-V2 D6        "
+    "      2600A-V2 1E       2764
+    "      2700B-V2 1D        "
+    "      2800C-V2 1B        "
+    "      2900D-V2 1A        "
+    "      4200A    A7       2532
+    "      4300B    A8        "
+    "      4400C    A9        "
+    "      4500D    A10       "
+

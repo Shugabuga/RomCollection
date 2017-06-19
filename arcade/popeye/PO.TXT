@@ -1,0 +1,13 @@
+-CPU Z80
+
+Checksum:
+po1 = $ED59
+po2 = $F7CD
+po3 = $9E61
+po4 = $A04C
+po5 = $03BC
+po6 = $502C
+po7 = $A64F
+po8 = $E57F
+po9 = $87E3
+

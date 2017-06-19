@@ -1,0 +1,22 @@
+                CITY CONNECTION   JALECO
+
+USES 68B09P & 68BO9EP CPU'S W/AY-3-8910 & YM2203B SOUND CHIPS
+
+NAME                TYPE
+---------------------
+C1                  27256
+C10                 27128
+C2                  27256
+C3                  27128
+C6                  27256
+C7                  27128
+C8                   "
+C9                  27256
+C11                  "
+C4                  2732
+C5                   "
+C12                 2764
+C13                  "
+PAL14L4    EDGE OF BOARD
+PAL16L8    MIDDLE OF BOARD
+

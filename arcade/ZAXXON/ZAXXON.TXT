@@ -1,0 +1,31 @@
+ROM image files for Zaxxon (c) Sega 1981
+
+  Type   Image name  Size
+-----------------------------
+  2532   Zaxxon.1
+  2564   Zaxxon.2
+  2564   Zaxxon.3
+  2564   Zaxxon.4
+  2564   Zaxxon.5
+  2564   Zaxxon.6
+  2564   Zaxxon.7
+  2564   Zaxxon.8
+  2564   Zaxxon.9
+  2564   Zaxxon.10
+  2564   Zaxxon.11
+  2564   Zaxxon.12
+  2564   Zaxxon.13
+  2716   Zaxxon.14
+  2716   Zaxxon.15
+
+Read out by Virtu-Al (gonzothegreat@juno.com)
+
+Legal stuff...
+
+These ROM images are the property of Sega and are intended for diagnosing
+and troubleshooting of legal owners of the boardset. Any other use is solely
+your own responsibility. Don't blame me if Sega's lawyers bust down your
+door, confiscate your computer, take your lunch money and have Bigfoot stuff
+a dozen rabid ferrets down your pants. My lawyer won't even return your calls.
+
+

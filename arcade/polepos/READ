@@ -1,0 +1,58 @@
+
+        POLE POSITION   CHIP PLACEMENT
+
+CHIP #  POSITION  TYPE
+------------------------
+101      3L       2764      CPU BOARD
+102      3K        "         "
+103      3E        "         "
+104      4E        "         "
+105      7H        "         "
+106      9C        "         "
+110      2F        "         "
+111      12E       "         "
+116      7F       2732       "
+119      13J      2764      VIDEO BOARD
+120      12J       "         "
+121      13K       "         "
+122      12K       "         "
+123      13L       "         "
+124      12L       "         "
+125      13N       "         "
+126      12N       "         "
+127      2L        "         "
+128      2M        "         "
+131      11N      2732       "
+132      7N        "         "
+133      6N        "         "
+134      2N        "         "
+                              
+        POLE POSITION  CHIP PLACEMENT       ( CLONE )     
+
+ CHIP #     POSITITON
+-------------------------------
+            CPU BD     SND BD
+ 1           8M
+ 2           8L
+ 5           4M
+ 6           4L
+ 9           6H
+10           5H
+11           2E
+15           6A
+16           5A
+17                      5N
+18                      5M
+19                      4N
+20                      4M
+21                      3N
+22                      3M
+25                      1N
+26                      1M
+27                      1L
+28                      1F
+29                      1E
+30                      3A
+31                      2A
+32                      1A
+

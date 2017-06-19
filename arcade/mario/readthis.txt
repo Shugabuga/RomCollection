@@ -1,0 +1,18 @@
+Here are the proms for Masao!
+I couldn't test this board so I don't know the manufakturer, sorry.
+2 Z80 for CPU
+1 Z80 for Sound
+1 AY-3-8910
+1 OSC 8 Mhz
+1 OSC 24.576 Mhz
+
+
+
+If you need more info or if this package doesn't
+Work, mail me.
+
+Visit The ROMLiST Homepage: Http://hem.passagen.se/ogg/
+
+..............CaBBe!...................................
+
+

@@ -1,0 +1,29 @@
+ROM images for Taito's Bubble Bobble (c)
+-------------------------------------------------------------------
+
+All ROMs on my board are 27256 except for a78_05.bin (a 27512) and the color
+PROM (7611/82s129)
+
+WARNING! A78_07.BIN is from the old set that was missing A78_20.BIN as mine
+was bad. Whether A78_20.BIN is 100% common between the two revisions is
+unknown. If you know, please contact me.
+
+Board notes
+
+Two board sandwich (CPU & video). The CPU PCB uses a three Z80s.
+
+The first one is for sound and uses A78_07.BIN. Other sound circuitry include
+a YM-2203, YM-3528 and (2) YM3014s.
+
+The remaining CPUs use A78_05, A78_06, A78_07 and a 2016. There is a custom
+Taito IC labeled JPH1011P with a cute little logo of our favorite dino :)
+
+The video PCB uses (4) 2018 RAMs and a trio of ceramic encased SIP ICs of an
+unknown nature.
+
+Legal stuff - These images were taken from the board that I own to aid in
+the troubleshooting and repair of other legal owners. Any other use is at
+your own risk. These images are *NOT* to be included in any emulator release.
+Doing so would incur the anger of the copyright holders.
+
+Virtu-Al (gonzothegreat@juno.com)
